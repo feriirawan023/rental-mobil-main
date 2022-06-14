@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42311439474",
+    "project_id": "rent-account-auth",
+    "storage_bucket": "rent-account-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42311439474:android:39ca44c8c494a250119eeb",
+        "android_client_info": {
+          "package_name": "com.example.rent_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42311439474-6cdd9amvejmmfingl6nvbakk89vonjtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rent_car",
+            "certificate_hash": "774736f7b6b5bfc7baff6f3e92264c0bcf1d9c5e"
+          }
+        },
+        {
+          "client_id": "42311439474-akp0sec7ps4upvcj1jjtlefm56ife1bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS_CMfm9uhYiqmfr9CuyYGBAJ3Dilsdpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42311439474-akp0sec7ps4upvcj1jjtlefm56ife1bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
